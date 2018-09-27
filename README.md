@@ -1,3 +1,5 @@
+This is a test!
+
 Samples for Intel® System Studio
 ================================
 
